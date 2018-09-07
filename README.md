@@ -8,4 +8,4 @@ Pre-requisite
 Java 8, mysql and schema
 
 1. run gradlew build in windows or run ./gradlew build
-2. Test
+
