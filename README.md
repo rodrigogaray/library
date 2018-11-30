@@ -13,5 +13,5 @@ Gradle:
       1. run gradlew build in windows or run ./gradlew build
       
 Maven:
-     Test
+     Testing my library app
 
