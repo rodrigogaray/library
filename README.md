@@ -14,6 +14,3 @@ Gradle:
       
 Maven:
      Test
-
-
-Added a new line
