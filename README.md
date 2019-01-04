@@ -15,4 +15,4 @@ Gradle:
 Maven:
      Test
 
-Test line added
+Removed a line for testing commits
