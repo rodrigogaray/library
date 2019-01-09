@@ -14,5 +14,3 @@ Gradle:
       
 Maven:
      Test
-
-Test
